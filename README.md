@@ -3,7 +3,7 @@
 
 # Implied Volatility Surface Visualizer
 
-**Interactive 3D Volatility Explorer built with Python + Streamlit**
+Interactive 3D Volatility Explorer built with Python
 
 <br>
 
