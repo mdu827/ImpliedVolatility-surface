@@ -1,5 +1,3 @@
-<img align="right" src="https://img.shields.io/github/stars/mdu827/ImpliedVolatility-surface?style=social">
-<img align="right" src="https://img.shields.io/badge/License-MIT-blue">
 
 <div align="center">
 
